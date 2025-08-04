@@ -2,8 +2,12 @@
 
 Official Pytorch implementation of [Long-tailed Detection and Classification of Wafer Defects from SEM Images Robust to Diverse Image Backgrounds and Defect Scales] (Under review).
 
-Authors: Taekyeong Park*, Yongho Son*, Sanghyuk Moon*, Seungju Han, Je Hyeong Hong
+Authors: Taekyeong Park*, Yongho Son*, Sanghyuk Moon*, Seungju Han, and Je Hyeong Hong
+<br>[Spatial AI Lab](https://sail.hanyang.ac.kr/). Hanyang University.<br>
 
+<a href="https://github.com/SpatialAILab/WaferDC">
+    <img src="https://img.shields.io/badge/arXiv-2407.02286-red?logo=arXiv" alt="arXiv">
+</a>
 
 ## Abstract
 In semiconductor engineering, high yield of wafers relies on accurate detection and classification of wafer defects.
