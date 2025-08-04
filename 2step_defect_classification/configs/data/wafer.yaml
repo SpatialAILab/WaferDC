@@ -1,0 +1,11 @@
+dataset: "wafer"
+
+
+#1step
+# root: "./data/wafer/wafer_confirm_ver7_ver3_1step_nonpatch"
+# root: "./data/wafer/wafer_confirm_ver7_ver3_1step_patch"
+
+# root: "./data/wafer/wafer_confirm_ver7_ver3_half_plus_6class_1step_patch_please"
+
+# root: "./data/wafer/wafer_confirm_ver7_ver3_half_5std_1step_patch_please"
+root: "./data/wafer/wafer_test"

@@ -1,0 +1,4 @@
+dataset: "dagm"
+root: "data/dagm/dagm_confirm_ver4_1step_nonpatch"
+# root: "data/dagm/dagm_confirm_ver4_1step_patch"
+# root: "data/dagm/dagm_confirm_ver4_aug_test"

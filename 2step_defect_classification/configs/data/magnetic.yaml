@@ -1,0 +1,12 @@
+dataset: "magnetic"
+# root: "/root/code/TIM/2step/2step_PEL/data/magnetic/magnetic_confirm_ver4_1step_nonpatch"
+# root: "/root/code/TIM/2step/2step_PEL/data/magnetic/magnetic_confirm_ver4_1step_patch"
+#root: "/root/code/TIM/2step/2step_PEL/data/magnetic/magnetic_confirm_ver4_1step_patch_half"
+
+# root: "/root/code/TIM/2step/2step_PEL/data/magnetic/magnetic_confirm_ver4_1step_patch_half_5std"
+# root: "/root/code/TIM/2step/2step_PEL/data/magnetic/magnetic_confirm_ver4_1step_patch_half_3std_addon"
+
+#root: "./data/magnetic/magnetic_test"
+#root: "./data/magnetic/magnetic_test_addon"
+#root: "./data/magnetic/magnetic_test_under_balance"
+root: "./data/magnetic/magnetic_test_over_balance"

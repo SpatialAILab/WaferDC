@@ -1,0 +1,3 @@
+dataset: "CIFAR100_IR100"
+root: "./data"
+resolution: 32

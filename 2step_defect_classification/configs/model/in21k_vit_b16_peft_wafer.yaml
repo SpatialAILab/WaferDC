@@ -1,0 +1,71 @@
+backbone: "IN21K-ViT-B/16"
+resolution: 224
+
+output_dir: null
+print_freq: 1
+
+seed: 0
+deterministic: True
+gpu: 0
+num_workers: 8
+prec: "amp"
+
+num_epochs: 50
+batch_size: 128
+micro_batch_size: 128
+# batch_size: 256
+# micro_batch_size: 256
+# batch_size: 16
+# micro_batch_size: 16
+lr: 0.01
+# lr: 0.0001
+weight_decay: 5e-4
+weight_decay_head: 5e-4
+
+momentum: 0.9
+
+# table 4-5 (augmentation strategies)
+
+loss_type: "CE"
+# loss_type: "LA"
+
+# taaebl 6-7 (adaptformer ablation scaling factor)
+
+classifier: "CosineClassifier"
+scale: 25
+
+# table 6-7 (adaptformer ablation adapter dimension factor)
+
+adapter_dim: 256
+# adapter_dim: 32
+# adapter_dim: 1024
+
+
+# table 6-7 (adaptformer ablation PEFT module)
+
+# classifier: "LinearClassifier"
+full_tuning: False  # full fine-tuning
+bias_tuning: False
+ln_tuning: False
+vpt_shallow: False
+vpt_deep: False
+adapter: False
+adaptformer: True
+lora: False
+ssf_attn: False
+ssf_mlp: False
+ssf_ln: False
+
+# init_head: "linear_probe"
+# init_head: "class_mean"
+init_head: None
+
+test_ensemble: True
+expand: 24
+
+cmo: False
+use_randaug: False
+weighted_alpha: 1
+
+normal_label: 10
+
