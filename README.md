@@ -1,6 +1,6 @@
-# Long-tailed Detection and Classification of Wafer Defects from SEM Images Robust to Diverse Image Backgrounds and Defect Scales
+# [EAAI 2025] Long-tailed Detection and Classification of Wafer Defects from SEM Images Robust to Diverse Image Backgrounds and Defect Scales
 
-Official Pytorch implementation of [Long-tailed Detection and Classification of Wafer Defects from SEM Images Robust to Diverse Image Backgrounds and Defect Scales] (Under review).
+Official Pytorch implementation of [Long-tailed Detection and Classification of Wafer Defects from SEM Images Robust to Diverse Image Backgrounds and Defect Scales] (Engineering Applications of Artificial Intelligence)
 
 Authors: Taekyeong Park*, Yongho Son*, Sanghyuk Moon*, Seungju Han, and Je Hyeong Hong
 <br>[Spatial AI Lab](https://sail.hanyang.ac.kr/). Hanyang University.<br>
