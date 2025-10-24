@@ -79,7 +79,17 @@ python main.py
 This code is written based on the following code : https://github.com/amazon-science/patchcore-inspection , https://github.com/shijxcs/LIFT
 
 ## Citation
----
+```latex
+@article{park2025long,
+  title={Long-tailed detection and classification of wafer defects from scanning electron microscope images robust to diverse image backgrounds and defect scales},
+  author={Park, Taekyeong and Son, Yongho and Moon, Sanghyuk and Han, Seungju and Hong, Je Hyeong},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={162},
+  pages={112342},
+  year={2025},
+  publisher={Elsevier}
+}
+
 
 ## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
