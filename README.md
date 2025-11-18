@@ -5,7 +5,7 @@ Official Pytorch implementation of [Long-tailed Detection and Classification of 
 Authors: Taekyeong Park*, Yongho Son*, Sanghyuk Moon*, Seungju Han, and Je Hyeong Hong
 <br>[Spatial AI Lab](https://sail.hanyang.ac.kr/). Hanyang University.<br>
 
-<a href="https://authors.elsevier.com/c/1lqBg3OWJ9CWmG">
+<a href="https://www.sciencedirect.com/science/article/pii/S0952197625023504">
     <img src="https://img.shields.io/badge/Journal-EAAI-red?logo=arXiv" alt="arXiv">
 </a>
 
